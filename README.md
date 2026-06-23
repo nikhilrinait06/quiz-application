@@ -46,3 +46,7 @@ Quiz-App/
 - Dark mode 🌙
 - Random question generator 🔀
 
+
+## 📄 License
+
+This project is free to use for learning and personal use.
